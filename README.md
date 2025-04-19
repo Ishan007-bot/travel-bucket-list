@@ -1,13 +1,29 @@
-# Travel Bucket List - Phase 1
+# Travel Bucket List - Phase 2
 
-This is a React application for creating and managing a travel bucket list. This repository currently contains only the Phase 1 setup (project foundation).
+This is a React application for creating and managing a travel bucket list. This repository currently contains the Phase 1 & 2 implementations.
 
-## Current Implementation (Phase 1)
+## Current Implementation
 
+### Phase 1: Project Setup & Foundation
 - Initialized Vite React project
 - Basic folder structure
 - React Router setup
 - Basic responsive layout template
+
+### Phase 2: API Integration & Data Modeling
+- REST Countries API integration
+- API service functions for fetching countries
+- Global state management with Context API
+- Local storage persistence for saved countries
+- Theme context for light/dark mode
+- Data fetching hooks with loading states
+- Utility functions for data formatting
+
+## Features
+- Light/Dark mode toggle
+- Countries API integration
+- State management with Context API
+- Local storage for saving user preferences
 
 ## Folder Structure
 
