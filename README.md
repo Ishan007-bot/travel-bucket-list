@@ -1,6 +1,6 @@
-# Travel Bucket List - Phase 3
+# Travel Bucket List - Phase 4
 
-This is a React application for creating and managing a travel bucket list. This repository currently contains Phases 1-3 implementations.
+This is a React application for creating and managing a travel bucket list. This repository currently contains Phases 1-4 implementations.
 
 ## Current Implementation
 
@@ -30,6 +30,19 @@ This is a React application for creating and managing a travel bucket list. This
   - Modal dialogs and confirm modals
 - Complete dark/light theme implementation
 
+### Phase 4: Home Page & Country List
+- Implemented Home page with country list view
+- Added hero section with search functionality
+- Created grid/list toggle view with smooth transitions
+- Implemented advanced filtering options:
+  - Region filter
+  - Population range filter
+- Added sorting functionality (alphabetical, population)
+- Implemented responsive design with different grid layouts
+- Added pagination for country results
+- Integrated search functionality with URL parameters
+- Enhanced mobile responsiveness for all filters and views
+
 ## Features
 - Light/Dark mode toggle
 - Countries API integration
@@ -37,6 +50,10 @@ This is a React application for creating and managing a travel bucket list. This
 - Local storage for saving user preferences
 - Responsive design for all screen sizes
 - Reusable component library
+- Advanced filtering and sorting
+- Grid/List view toggle
+- Pagination
+- URL-based search
 
 ## Folder Structure
 
