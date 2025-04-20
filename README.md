@@ -1,6 +1,6 @@
-# Travel Bucket List - Phase 4
+# Travel Bucket List - Phase 5
 
-This is a React application for creating and managing a travel bucket list. This repository currently contains Phases 1-4 implementations.
+This is a React application for creating and managing a travel bucket list. This repository currently contains Phases 1-5 implementations.
 
 ## Current Implementation
 
@@ -43,6 +43,18 @@ This is a React application for creating and managing a travel bucket list. This
 - Integrated search functionality with URL parameters
 - Enhanced mobile responsiveness for all filters and views
 
+### Phase 5: Country Details Page
+- Enhanced Country Details page with rich information
+- Implemented tabbed interface for better organization
+- Added weather information for capital cities
+- Embedded interactive Google Maps integration
+- Created image gallery with lightbox functionality
+- Added travel tips with region-specific advice
+- Implemented "visited" toggle with celebration effect
+- Enhanced wishlist and visited country management
+- Added note-taking functionality for saved countries
+- Improved UI with breadcrumb navigation and icons
+
 ## Features
 - Light/Dark mode toggle
 - Countries API integration
@@ -54,6 +66,12 @@ This is a React application for creating and managing a travel bucket list. This
 - Grid/List view toggle
 - Pagination
 - URL-based search
+- Weather information
+- Image galleries
+- Travel tips
+- Interactive maps
+- Celebration effects
+- Notes for saved countries
 
 ## Folder Structure
 
